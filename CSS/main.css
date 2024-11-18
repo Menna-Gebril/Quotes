@@ -1,0 +1,7 @@
+h1{
+    font-size: 5rem;
+}
+
+button:hover{
+    background-color: green !important;
+}
